@@ -1,0 +1,21 @@
+{
+  "name": "smm-aut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "drizzle-orm": "^0.44.7",
+    "fastify": "^5.6.1",
+    "postgres": "^3.4.7",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
