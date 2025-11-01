@@ -15,6 +15,19 @@
     "drizzle-orm": "^0.44.7",
     "fastify": "^5.6.1",
     "postgres": "^3.4.7",
+    "uuid": "^13.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galil-ux/smm-aut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Galil-ux/smm-aut/issues"
+  },
+  "homepage": "https://github.com/Galil-ux/smm-aut#readme",
+  "devDependencies": {
+    "@types/node": "^24.9.2",
+    "drizzle-kit": "^0.31.6",
     "tsx": "^4.20.6",
     "typescript": "^5.9.3"
   }
